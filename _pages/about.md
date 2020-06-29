@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Benim Sayfam.
+Benim sayfam
 
 A data-driven personal website
 ======
